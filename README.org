@@ -1,0 +1,6 @@
+#+title: flymake-nasm
+
+Usage:
+#+begin_src elisp
+(add-hook 'asm-mode-hook #'flymake-nasm-setup)
+#+end_src
