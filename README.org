@@ -1,4 +1,5 @@
 #+title: flymake-nasm
+[[https://github.com/juergenhoetzel/flymake-nasm/actions][file:https://github.com/juergenhoetzel/flymake-nasm/workflows/CI/badge.svg]]
 
 Usage:
 #+begin_src elisp
