@@ -1,8 +1,8 @@
 #+title: flymake-nasm
-[[https://github.com/juergenhoetzel/flymake-nasm/actions][file:https://github.com/juergenhoetzel/flymake-nasm/workflows/CI/badge.svg]]
-* flymake-nasm
-An Emacs flymake handler for syntax-checking assemlby source code using =nasm=.
+[[https://github.com/juergenhoetzel/flymake-nasm/actions][file:https://github.com/juergenhoetzel/flymake-nasm/workflows/CI/badge.svg]]  
 
+
+An Emacs flymake handler for syntax-checking assemlby source code using =nasm=.
 * Usage:
 #+begin_src elisp
 (require 'flymake-nasm)
