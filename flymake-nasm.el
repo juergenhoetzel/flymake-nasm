@@ -29,9 +29,6 @@
 
 (require 'flymake-quickdef)
 
-(defconst flymake-nasm-err-line-patterns
-  '(( nil 2 3 4)))
-
 (defgroup flymake-nasm nil "flymake-nasm preferences." :group 'flymake-nasm)
 
 (defcustom flymake-nasm-executable "nasm"
